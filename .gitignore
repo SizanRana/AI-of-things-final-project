@@ -1,0 +1,13 @@
+# Ignore all files in touch_pose directory
+touch_pose/
+
+# Ignore DS Store files
+.DS_Store
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore OS or editor specific files
+*.swp
+*.swo
