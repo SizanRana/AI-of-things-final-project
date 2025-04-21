@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 
 ## Folder Structure
-- `TouchPoseProject/`
+- `AI-of-things-final-project/`
   - `touch_pose/` — contains `P01.pkl` to `P10.pkl`
     - `P01.pkl`
     - `P02.pkl`
