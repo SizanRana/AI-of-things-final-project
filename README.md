@@ -19,5 +19,4 @@ pip install -r requirements.txt
   - `requirements.txt` — Python dependencies
   - `README.md` — project overview and setup instructions
   - `.gitignore` — ignores large files and cache
-  - `TouchPose_Project_Report.docx` — (optional) written report
-  - `TouchPose_Presentation.pptx` — (optional) slide deck
+
